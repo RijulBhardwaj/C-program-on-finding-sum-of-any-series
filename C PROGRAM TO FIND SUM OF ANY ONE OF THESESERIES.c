@@ -109,7 +109,7 @@ case 5 :
     }
 }
 break;
- /*the Sum of Series 1^3 + 2^3 + 3^3 + … + n^3*/
+ 
 case 6 :
 {
     int number, i;
@@ -128,7 +128,7 @@ case 6 :
     }
 }
 break ;
- /*the sum of cos(x) series*/
+
 case 7 :
 {
     int n, x1, i, j;
